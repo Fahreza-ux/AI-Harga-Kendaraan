@@ -1,3 +1,9 @@
+## 🔗 Projects Terkait
+
+- [Bensin Kalkulator](https://github.com/Fahreza-ux/Bensin-Kalkulator) - Tools automotive lainnya
+- [Marketplace Sentiment Analyzer](https://github.com/Fahreza-ux/Marketplace-Sentiment-Analyzer) - Project AI lainnya
+- [Portfolio](https://github.com/Fahreza-ux/Portofolio-Reza) - Portfolio developer
+
 # 🤖 AI Prediksi Harga Kendaraan
 
 AI Machine Learning untuk memprediksi harga kendaraan berbasis Python.
@@ -38,9 +44,3 @@ cd ai-harga-kendaraan
 ---
 *Dibuat dengan ❤️ untuk komunitas open source*
 
-
-## 🔗 Projects Terkait
-
-- [Bensin Kalkulator](https://github.com/Fahreza-ux/Bensin-Kalkulator) - Tools automotive lainnya
-- [Marketplace Sentiment Analyzer](https://github.com/Fahreza-ux/Marketplace-Sentiment-Analyzer) - Project AI lainnya
-- [Portfolio](https://github.com/Fahreza-ux/Portofolio-Reza) - Portfolio developer
