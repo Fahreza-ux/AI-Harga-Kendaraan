@@ -35,11 +35,12 @@ Fahreza-ux
 ```bash
 git clone https://github.com/Fahreza-ux/ai-harga-kendaraan.git
 cd ai-harga-kendaraan
+---
 
 ## 🔗 Projects Terkait
 
 - [Bensin Kalkulator](https://github.com/Fahreza-ux/Bensin-Kalkulator) - Tools automotive lainnya
 - [Marketplace Sentiment Analyzer](https://github.com/Fahreza-ux/Marketplace-Sentiment-Analyzer) - Project AI lainnya
 - [Portfolio](https://github.com/Fahreza-ux/Portofolio-Reza) - Portfolio developer
----
+
 *Dibuat dengan ❤️ untuk komunitas open source*
